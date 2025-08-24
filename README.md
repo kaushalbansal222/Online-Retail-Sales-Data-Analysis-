@@ -7,8 +7,6 @@ This project analyzes **UK-based e-commerce transactions (2010–2011)** to extr
 * Cleaning and preprocessing raw data
 * Performing **exploratory data analysis (EDA)**
 * Calculating **key retail KPIs**
-* Conducting **customer segmentation via RFM analysis**
-* Building **visualizations** that highlight business opportunities
 * Analyzing **cancellations & loss recovery**
 
 ---
