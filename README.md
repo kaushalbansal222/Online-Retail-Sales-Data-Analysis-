@@ -54,8 +54,6 @@ This project analyzes **UK-based e-commerce transactions (2010–2011)** to extr
 
 ### Cancellations Analysis
 
-Unlike many projects that drop cancellations, this analysis **keeps them** to understand operational inefficiencies:
-
 * **Total Cancellations** → Number of cancelled invoices
 * **Cancelled Items** → Quantity of items cancelled
 * **Cancelled Value (£)** → Total monetary value of cancellations
