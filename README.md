@@ -44,12 +44,6 @@ This project analyzes **UK-based e-commerce transactions (2010–2011)** to extr
 ### Customer Behavior Metrics
 
 * **Repeat Purchase Rate** → % of customers who made multiple purchases.
-* **Customer Segmentation (RFM)**:
-
-  * **Recency**: Days since last purchase
-  * **Frequency**: Number of purchases
-  * **Monetary**: Total spend
-  * Segments: Champions, Loyal, At-Risk, Lost, etc.
 
 ### Cancellations Analysis
 
@@ -58,7 +52,6 @@ This project analyzes **UK-based e-commerce transactions (2010–2011)** to extr
 * **Cancelled Value (£)** → Total monetary value of cancellations
 * **Cancellation Rate (Invoices)** → % of total invoices that are cancellations
 * **Cancellation Rate (Revenue)** → % of revenue lost due to cancellations
-* Identified **seasonality in cancellations** to detect potential logistics or supply chain issues
 
 ### Strategic Insights
 
