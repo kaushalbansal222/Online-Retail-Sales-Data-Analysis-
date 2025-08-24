@@ -44,7 +44,6 @@ This project analyzes **UK-based e-commerce transactions (2010–2011)** to extr
 ### Customer Behavior Metrics
 
 * **Repeat Purchase Rate** → % of customers who made multiple purchases.
-* **Churn / Inactive Customers** → Customers with no purchase in the last 3+ months.
 * **Customer Segmentation (RFM)**:
 
   * **Recency**: Days since last purchase
@@ -67,17 +66,6 @@ This project analyzes **UK-based e-commerce transactions (2010–2011)** to extr
 * **Seasonality Analysis** → Strong Q4 performance (holiday effect).
 * **Product Mix Optimization** → A small set of products disproportionately drives sales.
 * **Cancellation Patterns** → High cancellation rates linked to certain SKUs and busy holiday months.
-
----
-
-## Key Visualizations  
-
-- **Top 10 Products by Revenue**  
-- **Monthly Sales Trend**  
-- **Top 10 Countries by Revenue**  
-- **Customer Recency Distribution**  
-- **Revenue vs Cancellations Over Time**  
-- **Monthly Cancellation Rate (%)**  
 
 ---
 
