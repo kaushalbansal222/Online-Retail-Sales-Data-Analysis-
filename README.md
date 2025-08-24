@@ -73,22 +73,11 @@ This project analyzes **UK-based e-commerce transactions (2010–2011)** to extr
 ## Key Visualizations  
 
 - **Top 10 Products by Revenue**  
-  ![Top Products](plots/top_products.png)  
-
 - **Monthly Sales Trend**  
-  ![Monthly Revenue](plots/monthly_revenue.png)  
-
 - **Top 10 Countries by Revenue**  
-  ![Top Countries](plots/top_countries.png)  
-
 - **Customer Recency Distribution**  
-  ![Recency Distribution](plots/recency_distribution.png)  
-
 - **Revenue vs Cancellations Over Time**  
-  ![Cancellations vs Revenue](plots/cancellations_vs_revenue.png)  
-
 - **Monthly Cancellation Rate (%)**  
-  ![Cancellation Rate](plots/cancellation_rate.png)  
 
 ---
 
